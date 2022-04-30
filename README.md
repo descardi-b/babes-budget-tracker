@@ -1,5 +1,5 @@
 ## Babes Budget Tracker
-a budget tracking app, for babes!
+A budget tracking app, for babes!
 
 ### How it Works
 
@@ -12,10 +12,10 @@ The Babes Budget Tracker uses:
 
 ### What it Does
 
-keep tabs on your spending and bag-securing habits with this easy-to-use application. the babes budget tracker is a pwa that functions offline, meaning you can collect (and spend) your coin anywhere.
+Keep tabs on your spending and bag-securing habits with this easy-to-use application. The Babes Budget Tracker is a PWA that functions offline, meaning you can collect (and spend) your coin anywhere.
 
 ### How to Use it
-simply deploy the app on heroku.
+Simply deploy the app on <a href="https://glacial-dawn-26138.herokuapp.com/">heroku</a>.
 
 
 ### Catch a Snap
