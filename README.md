@@ -18,7 +18,6 @@ keep tabs on your spending and bag-securing habits with this easy-to-use applica
 simply deploy the app on heroku.
 
 
-## See it in Action
+### Catch a Snap
 
 <img src="./images/assets/img.png">
-<img src="./images/assets/vid.mov">
