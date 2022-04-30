@@ -1,18 +1,24 @@
-## babes-budget-tracker
+## Babes Budget Tracker
 a budget tracking app, for babes!
 
-### how it works
+### How it Works
 
-the babes budget tracker uses:
+The Babes Budget Tracker uses:
 
 * node.js
 * express.js
 * indexedDB
 * mongoose
 
-### what it does
+### What it Does
 
 keep tabs on your spending and bag-securing habits with this easy-to-use application. the babes budget tracker is a pwa that functions offline, meaning you can collect (and spend) your coin anywhere.
 
-### how to use it
+### How to Use it
 simply deploy the app on heroku.
+
+
+## See it in Action
+
+<img src="./images/assets/img.png">
+<img src="./images/assets/vid.mov">
